@@ -1,4 +1,4 @@
-# 🚀 Portafolio de Aplicación Práctica - Full Stack Python Trainee
+# 🚀 Portafolio de Aplicación Práctica - Full Stack Python Trainee -Modulo 2
 
 ![Estado del Proyecto](https://img.shields.io/badge/COMPLETADO-20%25-orange)
 ![Curso](https://img.shields.io/badge/Curso-SENCE-blue)
